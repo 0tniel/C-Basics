@@ -46,7 +46,8 @@ int main()
 }
 
 ## Output
-![image](https://github.com/user-attachments/assets/5b9cbdb1-fe7e-4cec-a6d7-431a9c9695b7)
+![Screenshot 2024-08-03 202918](https://github.com/user-attachments/assets/ee0014fc-b0c4-480e-a204-00baa2787b46)
+
 <br>
 ## Conclusion
 Hence, we learned how to print text in C++ using the cout function.
@@ -124,7 +125,8 @@ The product of 5 and 6 is: 30
 */
 
 ## Output
-![image](https://github.com/user-attachments/assets/d672f627-fbbf-47eb-9a8b-8890a0a4d9a2)
+![Screenshot 2024-08-03 202801](https://github.com/user-attachments/assets/51bf855e-4402-466b-a412-8824fdc4d2ad)
+
 <br>
 ## Conclusion
 Hence, we learned how to perform basic arithmetic operations in C++ using user input and output functions.
