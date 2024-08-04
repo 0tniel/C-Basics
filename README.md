@@ -30,7 +30,7 @@ Step 3: Stop
 <br>
 ## Program Code
 
-cpp
+```cpp
 // HelloWorld.cpp
 // Otniel Jhirad
 // ENTC A3
@@ -44,7 +44,7 @@ int main()
     cout << "Hello, World!" << endl; 
     return 0;
 }
-
+```
 ## Output
 ![Screenshot 2024-08-03 202918](https://github.com/user-attachments/assets/ee0014fc-b0c4-480e-a204-00baa2787b46)
 
@@ -93,7 +93,7 @@ Step 9: End
 <br>
 <br>
 ## Program Code
-cpp
+```cpp
 // Name - Otniel Jhirad
 // PRN - 23070123069
 
@@ -113,16 +113,7 @@ int main() {
 
     return 0;
 }
-
-/*
-Example Output:
-Please enter the first number: 5
-Please enter the second number: 6
-The sum of 5 and 6 is: 11
-The difference when subtracting 6 from 5 is: -1
-The result of dividing 5 by 6 is: 0.833333
-The product of 5 and 6 is: 30
-*/
+```
 
 ## Output
 ![Screenshot 2024-08-03 202801](https://github.com/user-attachments/assets/51bf855e-4402-466b-a412-8824fdc4d2ad)
