@@ -49,7 +49,8 @@ int main()
 ![Screenshot 2024-08-03 202918](https://github.com/user-attachments/assets/ee0014fc-b0c4-480e-a204-00baa2787b46)
 
 <br>
-## Conclusion
+<br>
+<strong>##Conclusion</strong>
 Hence, we learned how to print text in C++ using the cout function.
 <br>
 <br>
@@ -119,5 +120,5 @@ int main() {
 ![Screenshot 2024-08-03 202801](https://github.com/user-attachments/assets/51bf855e-4402-466b-a412-8824fdc4d2ad)
 
 <br>
-## Conclusion
+##Conclusion
 Hence, we learned how to perform basic arithmetic operations in C++ using user input and output functions.
