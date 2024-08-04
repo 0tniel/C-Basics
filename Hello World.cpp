@@ -1,0 +1,12 @@
+// HelloWorld.cpp
+//Otniel Jhirad
+//ENTC A3
+//23070123069
+#include <iostream>
+using namespace std;
+int main() {
+    cout << "Hello, World!" << endl; 
+    return 0;
+}
+//Output
+//Hello, World!
