@@ -19,7 +19,7 @@ int main() {
 }
 
 /*
-Example Output:
+Output:
 Please enter the first number: 5
 Please enter the second number: 6
 The sum of 5 and 6 is: 11
@@ -27,4 +27,3 @@ The difference when subtracting 6 from 5 is: -1
 The result of dividing 5 by 6 is: 0.833333
 The product of 5 and 6 is: 30
 */
-
